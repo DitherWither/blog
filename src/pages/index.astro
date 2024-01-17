@@ -1,0 +1,36 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<h1>Hi there</h1>
+			<p>
+				I'm Vardhan Patil, and this is my personal blog, where I'll
+				write about stuff I develop, as well as general stuff
+			</p>
+			<p>
+				Check out my <a href="https://www.vardhanpatil.com">homepage</a>
+			</p>
+			<p>
+				Before someone asks, I refuse to replace the twitter logo on the
+				headerbar with 'X', and will continue calling it twitter
+				indefinitely
+			</p>
+			<blockquote>
+				PS: This site is in the works, and this site will eventually
+				move to where my current homepage is.
+			</blockquote>
+		</main>
+		<Footer />
+	</body>
+</html>
