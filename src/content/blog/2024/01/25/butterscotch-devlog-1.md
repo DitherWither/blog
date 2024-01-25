@@ -1,6 +1,6 @@
 ---
 title: 'Butterscotch Devlog 1: The first one'
-description: 'I got '
+description: 'I started developing the operating system, and got basic console output with heap memory alloc'
 pubDate: 'Jan 25 2024'
 heroImage: '/images/2024/01/25/butterscotch-devlog-1.png'
 ---
