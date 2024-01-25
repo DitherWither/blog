@@ -2,7 +2,7 @@
 title: 'Butterscotch Devlog 1: The first one'
 description: 'I got '
 pubDate: 'Jan 25 2024'
-heroImage: '/butterscotch-devlog-1.png'
+heroImage: '/images/2024/01/25/butterscotch-devlog-1.png'
 ---
 
 Now, when you want to get started with making an operating system, you have a ton of choices, regarding where to start, and what platform to use.

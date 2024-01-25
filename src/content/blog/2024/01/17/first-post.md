@@ -2,7 +2,7 @@
 title: 'Hello!'
 description: 'This is the first post on this site'
 pubDate: 'Jan 17 2024'
-heroImage: '/siamese-tabby-cat.jpg'
+heroImage: '/images/2024/01/17/siamese-tabby-cat.jpg'
 ---
 
 Hi, I'm Vardhan, also known as DitherWither online. This is going to be my personal blog.
